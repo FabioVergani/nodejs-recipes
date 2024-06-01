@@ -1,3 +1,4 @@
+// npm install -g lebab
 // node transform.js
 
 const { exec } = require('child_process');
